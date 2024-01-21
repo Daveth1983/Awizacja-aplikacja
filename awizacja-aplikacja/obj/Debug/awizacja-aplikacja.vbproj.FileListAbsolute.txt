@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\bin\Debug\awizacja-aplikacja.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\bin\Debug\awizacja-aplikacja.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\bin\Debug\awizacja-aplikacja.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\bin\Debug\awizacja-aplikacja.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja_aplikacja.Form1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja_aplikacja.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.xml
+c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.pdb
