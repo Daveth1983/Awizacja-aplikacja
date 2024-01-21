@@ -11,8 +11,8 @@
         CB_GodzinaAwizacji.DataSource = godziny
         CB_MinutaAwizacji.DataSource = minuty
 
-        'Me.AutoSize = False
-        'Me.AutoScaleMode = AutoScaleMode.Font
+        Me.AutoSize = False
+        Me.AutoScaleMode = AutoScaleMode.Font
 
     End Sub
 
