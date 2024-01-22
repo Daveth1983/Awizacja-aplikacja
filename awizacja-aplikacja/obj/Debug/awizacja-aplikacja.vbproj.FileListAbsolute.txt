@@ -8,3 +8,5 @@ c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacj
 c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.exe
 c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.xml
 c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja_aplikacja.spedycja.resources

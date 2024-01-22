@@ -92,6 +92,12 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="spedycja.Designer.vb">
+      <DependentUpon>spedycja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="spedycja.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">
@@ -102,6 +108,9 @@
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spedycja.resx">
+      <DependentUpon>spedycja.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
