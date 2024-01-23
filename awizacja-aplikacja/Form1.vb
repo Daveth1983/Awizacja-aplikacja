@@ -62,7 +62,7 @@
 
     End Sub
 
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+    Private Sub Button2_Click(sender As Object, e As EventArgs)
         'przycisk tymczowy dodajacy tetbox do wskazanego pola z textbox5 i 7
 
 
@@ -70,11 +70,14 @@
         textbox.Text = "nowy wpis"
 
 
-        TableLayoutPanel1.Controls.Add(textbox, TextBox5.Text, TextBox1.Text)
+        TableLayoutPanel1.Controls.Add(textbox, Label1.Text, Label2.Text)
         textbox.BackColor = Color.Crimson
         'textbox.Dock = DockStyle.Fill
 
     End Sub
 
  
+    Private Sub DataGridView1_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridView1.CellContentClick
+
+    End Sub
 End Class
