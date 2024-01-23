@@ -48,6 +48,7 @@ Partial Class spedycja
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
+        Me.Button3 = New System.Windows.Forms.Button()
         Me.GB_TypAwizacji.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -55,7 +56,7 @@ Partial Class spedycja
         '
         Me.LBL_NrTelefonu.AutoSize = True
         Me.LBL_NrTelefonu.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.LBL_NrTelefonu.Location = New System.Drawing.Point(560, 238)
+        Me.LBL_NrTelefonu.Location = New System.Drawing.Point(519, 157)
         Me.LBL_NrTelefonu.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.LBL_NrTelefonu.Name = "LBL_NrTelefonu"
         Me.LBL_NrTelefonu.Size = New System.Drawing.Size(62, 14)
@@ -66,7 +67,7 @@ Partial Class spedycja
         '
         Me.LBL_Kierowca.AutoSize = True
         Me.LBL_Kierowca.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.LBL_Kierowca.Location = New System.Drawing.Point(560, 191)
+        Me.LBL_Kierowca.Location = New System.Drawing.Point(519, 105)
         Me.LBL_Kierowca.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.LBL_Kierowca.Name = "LBL_Kierowca"
         Me.LBL_Kierowca.Size = New System.Drawing.Size(54, 14)
@@ -77,7 +78,7 @@ Partial Class spedycja
         '
         Me.LBL_Komentarz.AutoSize = True
         Me.LBL_Komentarz.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.LBL_Komentarz.Location = New System.Drawing.Point(55, 245)
+        Me.LBL_Komentarz.Location = New System.Drawing.Point(55, 207)
         Me.LBL_Komentarz.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.LBL_Komentarz.Name = "LBL_Komentarz"
         Me.LBL_Komentarz.Size = New System.Drawing.Size(59, 14)
@@ -88,7 +89,7 @@ Partial Class spedycja
         '
         Me.LBL_DataAwizacji.AutoSize = True
         Me.LBL_DataAwizacji.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.LBL_DataAwizacji.Location = New System.Drawing.Point(36, 191)
+        Me.LBL_DataAwizacji.Location = New System.Drawing.Point(41, 149)
         Me.LBL_DataAwizacji.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.LBL_DataAwizacji.Name = "LBL_DataAwizacji"
         Me.LBL_DataAwizacji.Size = New System.Drawing.Size(73, 14)
@@ -99,7 +100,7 @@ Partial Class spedycja
         '
         Me.LBL_GodzinaAwizacji.AutoSize = True
         Me.LBL_GodzinaAwizacji.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.LBL_GodzinaAwizacji.Location = New System.Drawing.Point(45, 155)
+        Me.LBL_GodzinaAwizacji.Location = New System.Drawing.Point(23, 176)
         Me.LBL_GodzinaAwizacji.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.LBL_GodzinaAwizacji.Name = "LBL_GodzinaAwizacji"
         Me.LBL_GodzinaAwizacji.Size = New System.Drawing.Size(91, 14)
@@ -110,7 +111,7 @@ Partial Class spedycja
         '
         Me.LBL_NrNaczepy.AutoSize = True
         Me.LBL_NrNaczepy.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.LBL_NrNaczepy.Location = New System.Drawing.Point(67, 114)
+        Me.LBL_NrNaczepy.Location = New System.Drawing.Point(54, 104)
         Me.LBL_NrNaczepy.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.LBL_NrNaczepy.Name = "LBL_NrNaczepy"
         Me.LBL_NrNaczepy.Size = New System.Drawing.Size(64, 14)
@@ -121,7 +122,7 @@ Partial Class spedycja
         '
         Me.LBL_nrRejestracyjny.AutoSize = True
         Me.LBL_nrRejestracyjny.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.LBL_nrRejestracyjny.Location = New System.Drawing.Point(43, 85)
+        Me.LBL_nrRejestracyjny.Location = New System.Drawing.Point(28, 76)
         Me.LBL_nrRejestracyjny.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.LBL_nrRejestracyjny.Name = "LBL_nrRejestracyjny"
         Me.LBL_nrRejestracyjny.Size = New System.Drawing.Size(90, 14)
@@ -133,7 +134,7 @@ Partial Class spedycja
         Me.LBL_Spedytor.AutoSize = True
         Me.LBL_Spedytor.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.LBL_Spedytor.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.LBL_Spedytor.Location = New System.Drawing.Point(92, 49)
+        Me.LBL_Spedytor.Location = New System.Drawing.Point(67, 47)
         Me.LBL_Spedytor.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.LBL_Spedytor.Name = "LBL_Spedytor"
         Me.LBL_Spedytor.Size = New System.Drawing.Size(51, 14)
@@ -153,7 +154,7 @@ Partial Class spedycja
         'TB_NrTelefonu
         '
         Me.TB_NrTelefonu.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.TB_NrTelefonu.Location = New System.Drawing.Point(651, 233)
+        Me.TB_NrTelefonu.Location = New System.Drawing.Point(522, 173)
         Me.TB_NrTelefonu.Margin = New System.Windows.Forms.Padding(2)
         Me.TB_NrTelefonu.Name = "TB_NrTelefonu"
         Me.TB_NrTelefonu.Size = New System.Drawing.Size(146, 20)
@@ -162,7 +163,7 @@ Partial Class spedycja
         'TB_Kierowca
         '
         Me.TB_Kierowca.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.TB_Kierowca.Location = New System.Drawing.Point(651, 186)
+        Me.TB_Kierowca.Location = New System.Drawing.Point(522, 121)
         Me.TB_Kierowca.Margin = New System.Windows.Forms.Padding(2)
         Me.TB_Kierowca.Name = "TB_Kierowca"
         Me.TB_Kierowca.Size = New System.Drawing.Size(146, 20)
@@ -172,7 +173,7 @@ Partial Class spedycja
         '
         Me.CB_Spedytor.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
         Me.CB_Spedytor.FormattingEnabled = True
-        Me.CB_Spedytor.Location = New System.Drawing.Point(161, 47)
+        Me.CB_Spedytor.Location = New System.Drawing.Point(122, 43)
         Me.CB_Spedytor.Margin = New System.Windows.Forms.Padding(2)
         Me.CB_Spedytor.Name = "CB_Spedytor"
         Me.CB_Spedytor.Size = New System.Drawing.Size(188, 22)
@@ -183,11 +184,11 @@ Partial Class spedycja
         Me.GB_TypAwizacji.Controls.Add(Me.RB_Dostawa)
         Me.GB_TypAwizacji.Controls.Add(Me.RB_Odbior)
         Me.GB_TypAwizacji.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.GB_TypAwizacji.Location = New System.Drawing.Point(545, 22)
+        Me.GB_TypAwizacji.Location = New System.Drawing.Point(522, 207)
         Me.GB_TypAwizacji.Margin = New System.Windows.Forms.Padding(2)
         Me.GB_TypAwizacji.Name = "GB_TypAwizacji"
         Me.GB_TypAwizacji.Padding = New System.Windows.Forms.Padding(2)
-        Me.GB_TypAwizacji.Size = New System.Drawing.Size(150, 81)
+        Me.GB_TypAwizacji.Size = New System.Drawing.Size(92, 72)
         Me.GB_TypAwizacji.TabIndex = 27
         Me.GB_TypAwizacji.TabStop = False
         Me.GB_TypAwizacji.Text = "Typ Awizacji"
@@ -195,7 +196,7 @@ Partial Class spedycja
         'RB_Dostawa
         '
         Me.RB_Dostawa.AutoSize = True
-        Me.RB_Dostawa.Location = New System.Drawing.Point(28, 52)
+        Me.RB_Dostawa.Location = New System.Drawing.Point(4, 39)
         Me.RB_Dostawa.Margin = New System.Windows.Forms.Padding(2)
         Me.RB_Dostawa.Name = "RB_Dostawa"
         Me.RB_Dostawa.Size = New System.Drawing.Size(69, 18)
@@ -207,7 +208,7 @@ Partial Class spedycja
         'RB_Odbior
         '
         Me.RB_Odbior.AutoSize = True
-        Me.RB_Odbior.Location = New System.Drawing.Point(28, 27)
+        Me.RB_Odbior.Location = New System.Drawing.Point(4, 17)
         Me.RB_Odbior.Margin = New System.Windows.Forms.Padding(2)
         Me.RB_Odbior.Name = "RB_Odbior"
         Me.RB_Odbior.Size = New System.Drawing.Size(57, 18)
@@ -219,29 +220,29 @@ Partial Class spedycja
         'RTB_Komentarz
         '
         Me.RTB_Komentarz.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.RTB_Komentarz.Location = New System.Drawing.Point(151, 233)
+        Me.RTB_Komentarz.Location = New System.Drawing.Point(122, 204)
         Me.RTB_Komentarz.Margin = New System.Windows.Forms.Padding(2)
         Me.RTB_Komentarz.Name = "RTB_Komentarz"
-        Me.RTB_Komentarz.Size = New System.Drawing.Size(348, 192)
+        Me.RTB_Komentarz.Size = New System.Drawing.Size(262, 192)
         Me.RTB_Komentarz.TabIndex = 26
         Me.RTB_Komentarz.Text = ""
         '
         'TB_NrNaczepy
         '
         Me.TB_NrNaczepy.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.TB_NrNaczepy.Location = New System.Drawing.Point(163, 109)
+        Me.TB_NrNaczepy.Location = New System.Drawing.Point(122, 98)
         Me.TB_NrNaczepy.Margin = New System.Windows.Forms.Padding(2)
         Me.TB_NrNaczepy.Name = "TB_NrNaczepy"
-        Me.TB_NrNaczepy.Size = New System.Drawing.Size(188, 20)
+        Me.TB_NrNaczepy.Size = New System.Drawing.Size(155, 20)
         Me.TB_NrNaczepy.TabIndex = 24
         '
         'TB_NrRejestracyjny
         '
         Me.TB_NrRejestracyjny.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.TB_NrRejestracyjny.Location = New System.Drawing.Point(163, 82)
+        Me.TB_NrRejestracyjny.Location = New System.Drawing.Point(122, 74)
         Me.TB_NrRejestracyjny.Margin = New System.Windows.Forms.Padding(2)
         Me.TB_NrRejestracyjny.Name = "TB_NrRejestracyjny"
-        Me.TB_NrRejestracyjny.Size = New System.Drawing.Size(188, 20)
+        Me.TB_NrRejestracyjny.Size = New System.Drawing.Size(155, 20)
         Me.TB_NrRejestracyjny.TabIndex = 23
         '
         'CKB_Spedytor
@@ -260,7 +261,7 @@ Partial Class spedycja
         '
         Me.CB_GodzinaAwizacji.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
         Me.CB_GodzinaAwizacji.FormattingEnabled = True
-        Me.CB_GodzinaAwizacji.Location = New System.Drawing.Point(161, 146)
+        Me.CB_GodzinaAwizacji.Location = New System.Drawing.Point(122, 168)
         Me.CB_GodzinaAwizacji.Margin = New System.Windows.Forms.Padding(2)
         Me.CB_GodzinaAwizacji.Name = "CB_GodzinaAwizacji"
         Me.CB_GodzinaAwizacji.Size = New System.Drawing.Size(68, 22)
@@ -269,7 +270,7 @@ Partial Class spedycja
         'DTP_DataAwizacji
         '
         Me.DTP_DataAwizacji.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.DTP_DataAwizacji.Location = New System.Drawing.Point(151, 185)
+        Me.DTP_DataAwizacji.Location = New System.Drawing.Point(122, 144)
         Me.DTP_DataAwizacji.Margin = New System.Windows.Forms.Padding(2)
         Me.DTP_DataAwizacji.Name = "DTP_DataAwizacji"
         Me.DTP_DataAwizacji.Size = New System.Drawing.Size(262, 20)
@@ -321,12 +322,22 @@ Partial Class spedycja
         Me.Label4.TabIndex = 44
         Me.Label4.Text = "Label4"
         '
+        'Button3
+        '
+        Me.Button3.Location = New System.Drawing.Point(202, 506)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(75, 23)
+        Me.Button3.TabIndex = 45
+        Me.Button3.Text = "Button3"
+        Me.Button3.UseVisualStyleBackColor = True
+        '
         'spedycja
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.MenuHighlight
         Me.ClientSize = New System.Drawing.Size(882, 591)
+        Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Button2)
@@ -387,4 +398,5 @@ Partial Class spedycja
     Friend WithEvents Button2 As System.Windows.Forms.Button
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents Label4 As System.Windows.Forms.Label
+    Friend WithEvents Button3 As System.Windows.Forms.Button
 End Class
