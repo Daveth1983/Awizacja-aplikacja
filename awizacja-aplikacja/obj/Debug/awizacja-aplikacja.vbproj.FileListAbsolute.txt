@@ -10,3 +10,15 @@ c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacj
 c:\users\lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.pdb
 C:\Users\Lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.vbprojResolveAssemblyReference.cache
 C:\Users\Lenovo\documents\visual studio 2013\Projects\awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja_aplikacja.spedycja.resources
+C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\bin\Debug\awizacja-aplikacja.exe.config
+C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.exe
+C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.xml
+C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.pdb
+C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\bin\Debug\awizacja-aplikacja.exe
+C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\bin\Debug\awizacja-aplikacja.pdb
+C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\bin\Debug\awizacja-aplikacja.xml
+C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.vbprojResolveAssemblyReference.cache
+C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja_aplikacja.Form1.resources
+C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja_aplikacja.Resources.resources
+C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja_aplikacja.spedycja.resources
+C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.vbproj.GenerateResource.Cache
