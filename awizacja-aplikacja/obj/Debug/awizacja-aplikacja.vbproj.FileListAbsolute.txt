@@ -22,3 +22,7 @@ C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja
 C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja_aplikacja.Resources.resources
 C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja_aplikacja.spedycja.resources
 C:\Users\lukas\Awizacja\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.vbproj.GenerateResource.Cache
+D:\projektyVB\Awizacja-aplikacja\awizacja-aplikacja\bin\Debug\awizacja-aplikacja.exe.config
+D:\projektyVB\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.exe
+D:\projektyVB\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.xml
+D:\projektyVB\Awizacja-aplikacja\awizacja-aplikacja\obj\Debug\awizacja-aplikacja.pdb
